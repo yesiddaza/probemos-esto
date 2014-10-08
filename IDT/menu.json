@@ -5,10 +5,10 @@
      "menuitem": [
        {"name":"PARA HACER"},
        {"name":"ZONAS TURÍSTICAS"},
-       {"name":"ATRACCIONES"}
+       {"name":"ATRACCIONES"},
        {"name":"DIRECTORIO"},
        {"name":"SERVIVIOS AL TURISTA"},
-       {"name":"DESCUBRE BOGOTÁ"}
+       {"name":"DESCUBRE BOGOTÁ"},
        {"name":"AGENDA DE LA CIUDAD"}
      ]
    }
