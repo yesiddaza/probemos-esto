@@ -3,9 +3,13 @@
    "value": "File",
    "popup": {
      "menuitem": [
-       {"name":"Equis"},
-       {"name":"Ye"},
-       {"name":"Zeta"}
+       {"name":"PARA HACER"},
+       {"name":"ZONAS TURÍSTICAS"},
+       {"name":"ATRACCIONES"}
+       {"name":"DIRECTORIO"},
+       {"name":"SERVIVIOS AL TURISTA"},
+       {"name":"DESCUBRE BOGOTÁ"}
+       {"name":"AGENDA DE LA CIUDAD"}
      ]
    }
  }
