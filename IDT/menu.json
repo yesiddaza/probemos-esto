@@ -3,7 +3,7 @@
    "value": "File",
    "popup": {
      "menuitem": [
-       {"name":"PARA HACER", "backgroundColor":"#02E0FF"},
+       {"name":"PARA HACER", "backgroundColor":"#E2423D"},
        {"name":"ZONAS TURÍSTICAS", "backgroundColor":"#2A6093"},
        {"name":"ATRACCIONES", "backgroundColor":"#668439"},
        {"name":"DIRECTORIO", "backgroundColor":"#E03D76"},
