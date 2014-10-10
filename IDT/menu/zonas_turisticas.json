@@ -3,7 +3,19 @@
    "value": "File",
    "popup": {
      "menuitem": [
-       {"name":"ZONAS TURÍSTICAS", "backgroundColor":"#2A6093", "subDirName":"menu/", "filename":"zonas_turisticas"}
+       {"name":"ZONAS TURÍSTICAS", "backgroundColor":"#2A6093", "subDirName":"/menu/zonas_turisticas", "filename":"zonas_turisticas"},
+       {"name":"Centro histórico", "backgroundColor":"#5E88AE", "subDirName":"/menu/zonas_turisticas", "filename":"centro_historico.json"},
+       {"name":"Usaquén", "backgroundColor":"#195C93", "subDirName":"/menu/zonas_turisticas", "filename":"usaquen.json"},
+       {"name":"Zona T y Parque 93", "backgroundColor":"#0885C5", "subDirName":"/menu/zonas_turisticas", "filename":"zona_t_y_parque_93.json"},
+       {"name":"Calle 100", "backgroundColor":"#5193A9", "subDirName":"/menu/zonas_turisticas", "filename":"calle_100.json"},
+       {"name":"Zona G y Calle 72", "backgroundColor":"#910280", "subDirName":"/menu/zonas_turisticas", "filename":"zona_g_y_calle_72.json"},
+       {"name":"Centro Internacional", "backgroundColor":"#790833", "subDirName":"/menu/zonas_turisticas", "filename":"centro_internacional.json"},
+       {"name":"Teusaquillo", "backgroundColor":"#E86B00", "subDirName":"/menu/zonas_turisticas", "filename":"teusaquillo.json"},
+       {"name":"Salitre", "backgroundColor":"#EAA120", "subDirName":"/menu/zonas_turisticas", "filename":"salitre.json"},
+       {"name":"Galerías - Campín", "backgroundColor":"#9AA27B", "subDirName":"/menu/zonas_turisticas", "filename":"galerias_-_campin.json"},
+       {"name":"20 de Julio", "backgroundColor":"#8FA634", "subDirName":"/menu/zonas_turisticas", "filename":"20_de_julio.json"},
+       {"name":"Aeropuerto", "backgroundColor":"#7A8E09", "subDirName":"/menu/zonas_turisticas", "filename":"aeropuerto.json"},
+       {"name":"Alrededores", "backgroundColor":"#2D8C0A", "subDirName":"/menu/zonas_turisticas", "filename":"alrededores.json"}
      ]
    }
  }
