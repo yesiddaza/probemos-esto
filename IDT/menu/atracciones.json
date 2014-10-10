@@ -3,7 +3,7 @@
    "value": "File",
    "popup": {
      "menuitem": [
-       {"name":"ATRACCIONES", "backgroundColor":"#668439", "subDirName":"menu/", "filename":"atracciones"}
+       {"name":"ATRACCIONES", "backgroundColor":"#668439", "subDirName":"/menu", "filename":"atracciones"}
      ]
    }
  }
