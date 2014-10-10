@@ -3,7 +3,7 @@
    "value": "File",
    "popup": {
      "menuitem": [
-       {"name":"DIRECTORIO", "backgroundColor":"#E03D76", "subDirName":"menu/", "filename":"directorio"}
+       {"name":"DIRECTORIO", "backgroundColor":"#E03D76", "subDirName":"/menu", "filename":"directorio"}
      ]
    }
  }
