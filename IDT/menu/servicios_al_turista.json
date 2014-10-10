@@ -3,7 +3,7 @@
    "value": "File",
    "popup": {
      "menuitem": [
-       {"name":"SERVICIOS AL TURISTA", "backgroundColor":"#D48528", "subDirName":"menu/", "filename":"servicios_al_turista"}
+       {"name":"SERVICIOS AL TURISTA", "backgroundColor":"#D48528", "subDirName":"/menu", "filename":"servicios_al_turista"}
      ]
    }
  }
