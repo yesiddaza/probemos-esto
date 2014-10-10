@@ -1,0 +1,16 @@
+ {"menu": {
+   "id": "file",
+   "value": "File",
+   "popup": {
+     "menuitem": [
+       {"name":"PARA HACER", "backgroundColor":"#E2423D", "subDirName":"/menu", "filename":"para_hacer.json"},
+       {"name":"ZONAS TURÍSTICAS", "backgroundColor":"#2A6093", "subDirName":"/menu", "filename":"zonas_turisticas.json"},
+       {"name":"ATRACCIONES", "backgroundColor":"#668439", "subDirName":"/menu", "filename":"atracciones.json"},
+       {"name":"DIRECTORIO", "backgroundColor":"#E03D76", "subDirName":"/menu", "filename":"directorio.json"},
+       {"name":"SERVICIOS AL TURISTA", "backgroundColor":"#D48528", "subDirName":"/menu", "filename":"servicios_al_turista.json"},
+       {"name":"DESCUBRE BOGOTÁ", "backgroundColor":"#0086B2", "subDirName":"/menu", "filename":"descubre_bogota.json"},
+       {"name":"AGENDA DE LA CIUDAD", "backgroundColor":"#7F3F97", "subDirName":"/menu", "filename":"agenda_de_la_ciudad.json"}
+     ]
+   }
+ }
+}
