@@ -4,12 +4,14 @@
    "popup": {
      "menuitem": [
        {"name":"PARA HACER", "backgroundColor":"#E2423D", "subDirName":"/menu", "filename":"para_hacer.json"},
-       {"name":"ZONAS TURÍSTICAS", "backgroundColor":"#2A6093", "subDirName":"/menu", "filename":"zonas_turisticas.json"},
-       {"name":"ATRACCIONES", "backgroundColor":"#668439", "subDirName":"/menu", "filename":"atracciones.json"},
-       {"name":"DIRECTORIO", "backgroundColor":"#E03D76", "subDirName":"/menu", "filename":"directorio.json"},
-       {"name":"SERVICIOS AL TURISTA", "backgroundColor":"#D48528", "subDirName":"/menu", "filename":"servicios_al_turista.json"},
-       {"name":"DESCUBRE BOGOTÁ", "backgroundColor":"#0086B2", "subDirName":"/menu", "filename":"descubre_bogota.json"},
-       {"name":"AGENDA DE LA CIUDAD", "backgroundColor":"#7F3F97", "subDirName":"/menu", "filename":"agenda_de_la_ciudad.json"}
+       {"name":"Historia y cultura", "backgroundColor":"#D98C00", "subDirName":"/menu/para_hacer", "filename":"historia_y_cultura.json"},
+       {"name":"Compras", "backgroundColor":"#E87DA7", "subDirName":"/menu/para_hacer", "filename":"compras.json"},
+       {"name":"Gastronómico", "backgroundColor":"#AC322D", "subDirName":"/menu/para_hacer", "filename":"gastronomico.json"},
+       {"name":"Religioso", "backgroundColor":"#CAA12D", "subDirName":"/menu/para_hacer", "filename":"religioso.json"},
+       {"name":"Lujo", "backgroundColor":"#00902F", "subDirName":"/menu/para_hacer", "filename":"lujo.json"},
+       {"name":"Bogotá verde", "backgroundColor":"#4AA82C", "subDirName":"/menu/para_hacer", "filename":"bogota_verde.json"},
+       {"name":"Diversión", "backgroundColor":"#01698C", "subDirName":"/menu/para_hacer", "filename":"diversion.json"},
+       {"name":"Golf", "backgroundColor":"#0082B3", "subDirName":"/menu/para_hacer", "filename":"golf.json"}
      ]
    }
  }
