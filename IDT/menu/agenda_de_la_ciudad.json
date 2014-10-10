@@ -1,0 +1,10 @@
+{"menu": {
+   "id": "file",
+   "value": "File",
+   "popup": {
+     "menuitem": [
+       {"name":"AGENDA DE LA CIUDAD", "backgroundColor":"#7F3F97", "subDirName":"/menu", "filename":"agenda_de_la_ciudad"}
+     ]
+   }
+ }
+}
