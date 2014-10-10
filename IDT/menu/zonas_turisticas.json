@@ -1,0 +1,10 @@
+{"menu": {
+   "id": "file",
+   "value": "File",
+   "popup": {
+     "menuitem": [
+       {"name":"ZONAS TURÍSTICAS", "backgroundColor":"#2A6093", "subDirName":"/menu", "filename":"zonas_turisticas"}
+     ]
+   }
+ }
+}
